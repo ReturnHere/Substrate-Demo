@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gaokun/AndroidStudioProjects/Substrate/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/gaokun/AndroidStudioProjects/Substrate/app/build/intermediates/pre-dexed/debug/classes-63cd64ac0282cc0ebee3175ef8576ecf84526c62.jar" />
+    </item>
+    <item
+        jar="/Users/gaokun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/gaokun/AndroidStudioProjects/Substrate/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-32b7f5941a54c6157f7ba3340ff7b8743b1a2a89.jar" />
+    </item>
+    <item
+        jar="/Users/gaokun/AndroidStudioProjects/Substrate/app/libs/substrate-api.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a61be67d6329b3ff202edf6f4f155d5b382462a5">
+        <dex dex="/Users/gaokun/AndroidStudioProjects/Substrate/app/build/intermediates/pre-dexed/debug/substrate-api-d220da9771f4f638d9b49be3792802f1cf3a13f1.jar" />
+    </item>
+    <item
+        jar="/Users/gaokun/AndroidStudioProjects/Substrate/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/gaokun/AndroidStudioProjects/Substrate/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-c541cf554a757d4e9b8101b73e82b3d557dcda14.jar" />
+    </item>
+    <item
+        jar="/Users/gaokun/AndroidStudioProjects/Substrate/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/gaokun/AndroidStudioProjects/Substrate/app/build/intermediates/pre-dexed/debug/classes-9112e6d7a28e141f09d58f13b7d56e532bf1b917.jar" />
+    </item>
+
+</items>
